@@ -15,5 +15,4 @@ ssp.container.addChild( mc );
 //ssp.y = 100;
 //ssp.x = 50;
 
-
 ```
